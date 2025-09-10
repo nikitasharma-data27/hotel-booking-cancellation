@@ -67,4 +67,4 @@ Provides stakeholders with data‑driven insights to:
 
 ## 👩‍💻 Author
 Nikita Sharma • nikitasharma2727niki@gmail.com  
-[LinkedIn](https://linkedin.com/in/nikitasharma-tech) • [GitHub](https://github.com/chikipiki-code)
+[LinkedIn](https://linkedin.com/in/nikitasharma-tech) 
