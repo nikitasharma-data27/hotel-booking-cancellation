@@ -43,6 +43,8 @@ Analyzed 30K+ hotel booking records to uncover cancellation drivers and inform s
 - Pie charts comparing City vs. Resort hotel cancellations  
 - Line chart of monthly cancellation trends  
 - Interactive slicer filtering by year (2015–2017)
+  Dashboard image :<img width="1863" height="685" alt="Screenshot 2025-06-11 143001" src="https://github.com/user-attachments/assets/46d481b3-8acd-43de-b69a-7e63b5ef69cf" />
+
 
 ---
 
